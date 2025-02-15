@@ -1,2 +1,2 @@
-# Goldeas16
+# Goldeast16
 Readme
