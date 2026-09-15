@@ -50,7 +50,7 @@
 <details>
 <summary>🎓 Activities & Certifications</summary>
 
-- **CUAI** · Chung-Ang University AI Club, 7th & 8th cohorts · 2024–2026
+- **CUAI** · Chung-Ang University AI Society, 7th & 8th cohorts · 2024–2026
 - **LG Aimers** · Completed the 4th cohort · 2024
 - **AWS Certified Cloud Practitioner (CLF-C02)** · 2026
 - **ADsP** · 2026
