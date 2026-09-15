@@ -40,8 +40,6 @@
 | :--- | :--- |
 | [**Car vs Bike on Jetson Nano**](https://github.com/Goldeast16/Real-time-Car-vs-Bike-Classification-on-Jetson-Nano) | Real-time image classification with structured and unstructured pruning. |
 | **Vacant Room Finder** | Classroom availability service with a FastAPI and MongoDB backend. |
-| **Roommate** | Rental fraud prevention service — low-code competition project. |
-| **Toki** | AI companion concept supporting children's communication. |
 
 ## 🏆 Awards
 
