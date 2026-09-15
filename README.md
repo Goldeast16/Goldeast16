@@ -5,10 +5,6 @@
   Artificial Intelligence Undergraduate @ Chung-Ang University
 </p>
 
-<p align="center">
-  <a href="https://arxiv.org/abs/2505.16297"><img src="https://img.shields.io/badge/EMNLP_2025-Oral-2563EB?style=flat-square" alt="EMNLP 2025 Oral" /></a>
-</p>
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -36,7 +32,6 @@
 ## 📝 Publication
 
 **[ToDi: Token-wise Distillation via Fine-Grained Divergence Control](https://arxiv.org/abs/2505.16297)**<br />
-EMNLP 2025 · Main Conference · Oral
 <a href="https://arxiv.org/abs/2505.16297"><img src="https://img.shields.io/badge/EMNLP_2025-Oral-2563EB?style=flat-square" alt="EMNLP 2025 Oral" /></a>
 
 ## 🚀 Projects
